@@ -26,9 +26,9 @@ import torch
 # from torch import nn
 
 
-fasta_path = './data/window_sequences/all_subseqs.fasta'
-pair_path = './data/window_sequences/all_pairs.tsv'
-output_path = './output/all_windows_prdictions.csv'
+fasta_path = './data/all_domains.fasta'
+pair_path = './data/all_domains.tsv'
+output_path = './output/all_domains_prdictions.csv'
 
 #fasta_path = './data/Nanobody_Antigen-main/all_pair_data.seqs.fasta'
 #pair_path = './data/Nanobody_Antigen-main/all_pair_data.pair.tsv'
